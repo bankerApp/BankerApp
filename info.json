@@ -1,12 +1,2 @@
 {
-  "test1234": {
-   "password": "$2y$12$pd/i52ipab2gQqSS5TMOauBFsuTWd4M0LPmePq9tNzQW9KExadjtW",
-   "devices": ["REDMINOTE9PROEB0EDCED53459C98"],
-   "expiry": "30-11-2024 12:00 PM"
-},
-    "test1234": {
-   "password": "$2y$12$pd/i52ipab2gQqSS5TMOauBFsuTWd4M0LPmePq9tNzQW9KExadjtW",
-   "devices": ["REDMINOTE9PROEB0EDCED53459C98"],
-   "expiry": "30-11-2024 12:00 PM"
-},
 }

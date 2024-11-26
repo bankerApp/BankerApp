@@ -4,4 +4,9 @@
    "devices": ["23124RA7EO67883B6C51682899"],
    "expiry": "29-11-2025 3:25 PM"
 },
+  "SuperMod": {
+   "password": "$2y$12$642pF0tWr8HsWwecjxAA/uTlKRxSwk5KqfKG5jBKHg1bdg6TN0OmG",
+   "devices": ["INFINIXX697A1C264274D3F9D38"],
+   "expiry": "31-10-2030 12:00 PM"
+},
 }

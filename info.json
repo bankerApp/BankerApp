@@ -14,4 +14,9 @@
    "devices": ["REDMINOTE7648251D736CE0CD1"],
    "expiry": "01-12-2030 12:00 PM"
 },
+"Bankers1": {
+   "password": "$2y$12$nfKvIqZ1MKM8d0QWR8VWU.kqqZxpIesNrlPkBB5y5.Im1EC1jJ.Qm",
+   "devices": ["SM-A225F31C4805C0E23299B"],
+   "expiry": "02-01-2025 12:00 PM"
+},
 }

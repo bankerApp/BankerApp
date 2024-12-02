@@ -9,9 +9,4 @@
    "devices": ["INFINIXX697A1C264274D3F9D38"],
    "expiry": "31-10-2030 12:00 PM"
 },
-"Bankers1": {
-   "password": "$2y$12$D8GbprrpHMObWyF2Cdb3me.ImMDWJRiMuzVS2.ee2b16o9AiO91I2",
-   "devices": ["M2102J20SI4EC5791F51430F3C"],
-   "expiry": "02-12-2024 4:59 PM"
-},
 }

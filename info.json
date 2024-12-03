@@ -24,4 +24,9 @@
    "devices": ["MOTOROLAEDGE30A30C230490752D53"],
    "expiry": "02-01-2025 12:00 PM"
 },
+"Owner": {
+   "password": "$2y$12$AMjl3Z9MVb8RNxJcjktuAueHM/L1iNarqz09kMNbaAP23xNhdtAei",
+   "devices": ["REDMINOTE752D4B10C058963EA"],
+   "expiry": "01-12-2030 12:00 PM"
+},
 }

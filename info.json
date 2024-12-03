@@ -29,4 +29,9 @@
    "devices": ["REDMINOTE752D4B10C058963EA"],
    "expiry": "01-12-2030 12:00 PM"
 },
+"SuperMod1": {
+   "password": "$2y$12$PatE4/ET4EZUgfkIIU9q8.DAlS.I1ME7qJXQUlhVfRIyudWx.uUMO",
+   "devices": ["2209116AGA92F21F23CE7A184"],
+   "expiry": "02-01-2025 12:00 PM"
+},
 }

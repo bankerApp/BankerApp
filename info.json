@@ -9,11 +9,6 @@
    "devices": ["INFINIXX697A1C264274D3F9D38"],
    "expiry": "31-10-2030 12:00 PM"
 },
-"Owner": {
-   "password": "$2y$12$KFGkHpI5VjmU.Jq0C/Oybew0ItjBCpcuZVITgzrx4viAXCj7hTJBW",
-   "devices": ["REDMINOTE752D4B10C058963EA"],
-   "expiry": "01-12-2030 12:00 PM"
-},
 "Bankers1": {
    "password": "$2y$12$nfKvIqZ1MKM8d0QWR8VWU.kqqZxpIesNrlPkBB5y5.Im1EC1jJ.Qm",
    "devices": ["SM-A225F31C4805C0E23299B"],

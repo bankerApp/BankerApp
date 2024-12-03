@@ -24,4 +24,9 @@
    "devices": ["MOTOROLAEDGE20PRO6B70F4BF5CE0F5E1"],
    "expiry": "02-01-2025 12:00 PM"
 },
+"Bankers3": {
+   "password": "$2y$12$TrX/MCa4ImSEcgp09eWXHuJt9vqeGI97h8ZHRQnEaNIDJLmkQuSxe",
+   "devices": ["MOTOROLAEDGE30A30C230490752D53"],
+   "expiry": "02-01-2025 12:00 PM"
+},
 }

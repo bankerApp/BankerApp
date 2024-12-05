@@ -39,9 +39,4 @@
    "devices": ["SM-A207M3251702CF5759C38"],
    "expiry": "04-01-2025 12:00 PM"
 },
-"dewi1": {
-   "password": "$2y$12$Lrb4lk8fJ/Y9pUdMKaQmA.xRuDir4z.m6T.K0bNH3Q7VH9dI4YoHG",
-   "devices": ["REDMINOTE798161ABA33BC1569"],
-   "expiry": "06-12-2024 12:00 PM"
-},
 }

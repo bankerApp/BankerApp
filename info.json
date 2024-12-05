@@ -39,4 +39,9 @@
    "devices": ["SM-A207M3251702CF5759C38"],
    "expiry": "04-01-2025 12:00 PM"
 },
+"ija01": {
+   "password": "$2y$12$gTv7sVv7a69db18Bj4spcedt/u/PXGuuNIZdmVnrCHr4V68Nbfa2K",
+   "devices": [],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }

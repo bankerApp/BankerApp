@@ -41,7 +41,7 @@
 },
 "ija01": {
    "password": "$2y$12$gTv7sVv7a69db18Bj4spcedt/u/PXGuuNIZdmVnrCHr4V68Nbfa2K",
-   "devices": [],
+   "devices": ["REDMINOTE798161ABA33BC1569"],
    "expiry": "31-12-2024 12:00 PM"
 },
 }

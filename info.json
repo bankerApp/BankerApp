@@ -49,4 +49,9 @@
    "devices": ["REDMINOTE77854D1B03E672950"],
    "expiry": "26-12-2024 12:00 PM"
 },
+"Nepal": {
+   "password": "$2y$12$WBlZ54uWBOE59c7uS.puMOF9c.SFcX5hyKaGkrLwzjE4TtikLGONS",
+   "devices": ["CPH25693D33A8A1C0BD3F34"],
+   "expiry": "20-12-2024 12:00 PM"
+},
 }

@@ -44,4 +44,9 @@
    "devices": ["REDMINOTE7736A43E9CBE5ED84"],
    "expiry": "01-12-2025 12:00 PM"
 },
+"mii1234": {
+   "password": "$2y$12$RAJ6m7EjDdfn9f/FRG9qxu7mCWc91K1rphT82RU6ywZ/2Kx.nT.m6",
+   "devices": [],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }

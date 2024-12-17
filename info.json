@@ -45,8 +45,8 @@
    "expiry": "01-12-2025 12:00 PM"
 },
 "mii1234": {
-   "password": "$2y$12$RAJ6m7EjDdfn9f/FRG9qxu7mCWc91K1rphT82RU6ywZ/2Kx.nT.m6",
-   "devices": [],
-   "expiry": "31-12-2024 12:00 PM"
+   "password": "$2y$12$UDYa9EmwT5mO1pQnqylfE.F9hkZKd/Rci0k7Fp4TnJ0FSjSunB5Ku",
+   "devices": ["REDMINOTE77854D1B03E672950"],
+   "expiry": "16-12-2024 12:00 PM"
 },
 }

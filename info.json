@@ -64,4 +64,9 @@
    "devices": ["M2006C3MGC76EEF4E15F8F37F"],
    "expiry": "20-01-2025 12:00 PM"
 },
+"Rusmawan": {
+   "password": "$2y$12$ovI7nFhrpLknOvT3ysNl8OmB1V4X5mjWeb3z098eE608YVrjdOi1.",
+   "devices": ["SM-A525F480F4D7C0C6248B6"],
+   "expiry": "01-12-2030 12:00 PM"
+},
 }
